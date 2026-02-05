@@ -1,6 +1,9 @@
-**Prez-Doge progect**
+# Prez-Doge Progect #
 
 ---
-# an unblocker for school #
+**an unblocker for school**
 ---
-# inspired by doge unblocker #
+**Inspired by doge unblocker**
+---
+# Due to an error, deployment on our website is paused #
+Our website: **prez-coder-doge.vercel.app**
