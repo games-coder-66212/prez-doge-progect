@@ -5,5 +5,5 @@
 ---
 **Inspired by doge unblocker**
 ---
-# Due to an error, deployment on our website is paused #
+# Unfortunatley, our website is shut down due too vercel now enforcing payment #
 Our website: **prez-coder-doge.vercel.app**
